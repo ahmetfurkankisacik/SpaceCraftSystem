@@ -1,0 +1,4 @@
+propulSys,100,2000,0.3
+supportSys,100,30,40,0.2
+navSys,100,30.0,30.0
+exploreMission,20.0,20.0,5,19
